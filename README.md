@@ -1,6 +1,7 @@
-# pyconindiaDocuments
+# Pyconindia -2017 
+# Documents
 
-#1
+# 1
 Today i Attendend the pycon in delhi so it is good experience to be there .
 in this repo i am just collecting the links(including slides and url for documents in talk)
 
@@ -38,7 +39,7 @@ Content URLs:
   https://github.com/cbgaindia/scrapers
   https://github.com/heaven00
   
-#2
+# 2
 Prerequisites:
 
 Intermediate level knowledge of Python is beneficial, however the concepts are language agnostic .
@@ -60,7 +61,7 @@ https://github.com/dhruvpathak
 
 
 
-#3:
+# 3:
 Building microservices with firefly
  Nabarun Pal (~palnabarun) |  
 
@@ -119,7 +120,7 @@ Github: https://github.com/palnabarun
 
 
 
-#4:
+# 4:
 
 Do you know in the current micro services world, how to spot the critical parts of a monolith and replace them with modern efficient technologies? Have you ever wondered how Google or Netflix scale their traffic? For all these questions you should know how you can boost your web applications using Protocol Buffers and GRPC. Protocol Buffer is the data format that allows you to efficiently compose and read messages in binary format over HTTP/2. GRPC is a transport mechanism which delivers the protocol buffers over the wire. In the recent days, businesses may integrate with third party systems. For that to be smooth, any system can implement a micro service and others can consume it and vice versa.
 
